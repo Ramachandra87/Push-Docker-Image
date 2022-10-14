@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: chandra87/docker:latest
+          tags: chandra87/welcome-app:latest
